@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chinmay Pote.
 - 👀 I’m interested in creating websites, learning new things.
-- 🌱 I’m currently learning Angular JS.
+- 🌱 I’m currently learning Tableau and PowerBi.
 - 📫 How to reach me https://linktr.ee/chinmaypote18 .
 
 <!---
